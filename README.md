@@ -3,4 +3,4 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/heartshapedbox/scroll-down?color=5955E8&logo=github)
 
 ### Scroll down to an anchor on a webpage
-Coded on jQuery.
+Coded with jQuery.
